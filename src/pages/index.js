@@ -4,10 +4,12 @@ import Login from './login/Login'
 import New from './new/New'
 import Single from './single/Single'
 
+
 export {
     Home,
     List,
     Login,
     New,
     Single,
+    
 }
